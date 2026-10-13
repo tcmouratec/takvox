@@ -6,6 +6,12 @@
 
 > Independent community project. Not affiliated with or endorsed by the TAK Product Center or any TAK vendor.
 
+
+<img width="345" height="768" alt="IMG_20261009_110804" src="https://github.com/user-attachments/assets/29318dba-fe64-4a55-86b6-ad6d256c35db" />
+<img width="787" height="821" alt="Captura de tela 2026-10-13 155349" src="https://github.com/user-attachments/assets/a137ed36-2d73-48a7-855b-9a4416fd444c" />
+<img width="345" height="768" alt="IMG_20261009_110747" src="https://github.com/user-attachments/assets/cee9842b-e05c-4a73-88a0-cd4f95ce05de" />
+
+
 ## Download
 
 Get the signed plugin from **[Releases](../../releases/latest)**: `ATAK-Plugin-TakVox-<version>--5.6.0-civ-release.apk`.
