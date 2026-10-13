@@ -6,11 +6,19 @@
 
 > Independent community project. Not affiliated with or endorsed by the TAK Product Center or any TAK vendor.
 
-<img width="345" height="768" alt="IMG_20261009_110804" src="https://github.com/user-attachments/assets/31985b87-90b8-49e6-93f5-6a900e96fabc" />
-<img width="787" height="821" alt="Captura de tela 2026-10-13 155349" src="https://github.com/user-attachments/assets/61247929-a956-4a3f-b61f-39a30245653e" />
-<img width="345" height="768" alt="IMG_20261009_110747" src="https://github.com/user-attachments/assets/6fb7f29d-59f7-4216-8d1a-019143047a0b" />
-<img width="540" height="1200" alt="WhatsApp Image 2026-10-01 at 10 28 53" src="https://github.com/user-attachments/assets/2022a03a-374b-48f9-9490-f8c189cf6085" />
+## Screenshots
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31985b87-90b8-49e6-93f5-6a900e96fabc" width="300" alt="TAKVox screen 1">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/6fb7f29d-59f7-4216-8d1a-019143047a0b" width="300" alt="TAKVox screen 2">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/61247929-a956-4a3f-b61f-39a30245653e" height="400" alt="TAKVox screen 3">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/2022a03a-374b-48f9-9490-f8c189cf6085" height="400" alt="TAKVox screen 4">
+</p>
 
 ## Download
 
